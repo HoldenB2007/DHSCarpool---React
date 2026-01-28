@@ -1,3 +1,5 @@
+// Semi-final version
+
 // Using React, ReactDOM, and Framer Motion from CDN (loaded in index.html)
 // No imports needed - they're globally available
 
